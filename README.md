@@ -12,7 +12,7 @@
 
   1.README.md - このテキストファイルです。
 
-  2.MainActivity.txt - アプリのMainActivity.javaのソースコードです。
+  2.MainActivity.txt - 本アプリのMainActivity.javaのソースコードです。
 
   3.Screenshot.png - 実際にAndroid端末で動かした際のスクリーンショットです。
 
